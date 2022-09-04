@@ -1,0 +1,14 @@
+body {
+    background: linear-gradient(blue, pink, red);
+    background-repeat: no-repeat;
+    
+}
+
+html {
+    min-height: 100%;
+}
+
+h1 {
+    font-family: Helvetica, sans-serif;
+    font-size: 480px;
+}
